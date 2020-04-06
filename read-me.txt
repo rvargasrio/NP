@@ -1,0 +1,18 @@
+Projeto desenvolvido na plataforma .NET Visual Studio 2019.
+	. Testes na API OMDb (restsharp);
+	. Testes no Portal Unimed (selenium + specflow/BDD);
+
+Passos para execução:
+
+1. Abrir o arquivo NoesisChallenge.sln com o Visual Studio.
+2. Exibir a janela Test > Test Explorer.
+3. Executar todos os testes (Ctrl+R).
+
+
+
+* Projeto de API elaborado como referência também pela ferramenta Postman (v7.21.2).
+Collection: https://www.getpostman.com/collections/f5730528f5bce0f756e6
+
+1. Abrir o Postman
+2. Import > Import from Link
+3. Run > Run Noesis. 
